@@ -6,7 +6,8 @@ Check Become a Programmer: Foundations [Progress](https://github.com/hosamation/
 
 [Become a Programmer - Foundations][1] is the first part of **[Kalbonyan Elmarsos][2]** Competition
 
-
+#### The Certificate
+[![certificate link](https://media-exp1.licdn.com/dms/image/C4D1FAQE-GI88m7bYXg/feedshare-document-cover-images_1280/0/1651235041949?e=2147483647&v=beta&t=OF8KgejvFvRKHGwQ5BMDkMnjjC4TbBfa8qRAJjONKXg)](https://www.linkedin.com/learning/certificates/104d8cccfadc58b94194e06d58f0e06d39ec123fd295edafd9bfaa92d912b941?trk=share_certificate)
 
 [1]: https://www.linkedin.com/learning/paths/become-a-programmer-foundations
 
